@@ -16,7 +16,7 @@ function App() {
         <Route path='/tvshows' element={<TvShows/>}/>
         <Route path='/movies' element={<Movies/>}/>
         <Route path='/recentlyadded' element={<RecentlyAdded/>}/>
-        <Route path='/mylist' element={<Mylist/>}/>
+        <Route path='/mylist' element={<Mylist/>}/> 
       </Routes>
     </Router>
   );
