@@ -6,7 +6,7 @@ function TvShows() {
       color:"white",
       textAlign:"center",
       fontSize:"30px"
-    }}>No Tv shows to show at the moment</div>
+    }}>No Tv shows to show at the moment, will be available soon</div>
   )
 }
 
